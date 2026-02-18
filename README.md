@@ -5,16 +5,15 @@
     </td>
     <td>
 
-## 👋 who i am  
+## 👋 hey, im redretep aka **pidi**
 
-hey i'm **pd**  
-student building web projects  
+im a 15 year old student who loves building web projects
 
 ### 💻 about me  
-- into tech + coding  
-- video editing  
+- into tech + front-end  
+- html, css, js (webdev)
 - german + english  
-- always learning  
+- discord: redretep
 
     </td>
   </tr>
