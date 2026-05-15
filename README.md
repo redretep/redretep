@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hey, i'm redretep 👋</h1>
-  <p><b>15 y/o developer from germany • web projects • music addict</b></p>
+  <p><b>young developer from germany • web projects • music addict</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=redretep&label=profile+views&color=0e75b6&style=flat-square" />
 
@@ -21,8 +21,10 @@
 
 ### 🎧 recently played
 
-<a href="https://open.spotify.com/user/ae2zbt4mgamty7mfh1qaclwm0">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ae2zbt4mgamty7mfh1qaclwm0" width="50%">
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ae2zbt4mgamty7mfh1qaclwm0&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
 
 <br />
