@@ -1,30 +1,30 @@
 <div align="center">
   <h1>hey, i'm redretep 👋</h1>
   <p><b>young developer from germany • web projects • music addict</b></p>
-  
   <img src="https://komarev.com/ghpvc/?username=redretep&label=profile+views&color=0e75b6&style=flat-square" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/redretep/redretep/main/images/doge.gif" width="180">
+
+  <hr />
+
+  ## 💻 about me
+  <table>
+    <tr>
+      <td>
+        🖥️ <b>focus:</b> tech & front-end development<br />
+        🌐 <b>stack:</b> HTML, CSS, JavaScript<br />
+        🎧 <b>music:</b> listening to music 24/7<br />
+        🇩🇪 <b>languages:</b> german & english<br />
+        💬 <b>social:</b> insta: <code>meinnamewurdeschongenommen</code> discord: <code>redretep</code>
+      </td>
+    </tr>
+  </table>
 
   <br />
 
-  <img src="https://raw.githubusercontent.com/redretep/redretep/main/images/doge.gif" width="180">
-</div>
-
----
-
-### 💻 about me
-
-- 🖥️ **focus:** tech & front-end development
-- 🌐 **stack:** HTML, CSS, JavaScript
-- 🎧 **vibe:** listening to music 24/7
-- 🇩🇪 **languages:** German & English
-- 💬 **discord:** `redretep`
-
-### 🎧 recently played
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ae2zbt4mgamty7mfh1qaclwm0&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  ### 🎧 recently played
+  
+  <a href="https://www.last.fm/user/redretep">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=redretep" height="auto" width="350px"/>
   </a>
-</p>
-
-<br />
+</div>
